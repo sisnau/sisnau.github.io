@@ -1,0 +1,38 @@
+.jumbotron {
+background-image: url(image.jpg);
+background-size: cover;
+height: 250%;
+margin-bottom: -40px;
+}
+
+h1, p {
+	color:white;
+	text-align: center;
+}
+body, html {
+    height: 100%;
+    /* The image used */
+    background-image: url("image.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    justify-content: space-around;
+
+}
+.nav {
+	background-color: #343a40;
+
+
+}
+ul, a {
+	color: white;
+}
+.btn {
+	margin-left: 500px;
+}
